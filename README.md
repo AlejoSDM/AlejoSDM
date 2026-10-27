@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AlejoSDM/PORTAFOLIO/main/ftalejo.jpeg" width="150" alt="Foto de Alejandro Solano Durán" style="border-radius: 50%;" />
-
 # ¡Hola! Soy Alejandro Solano Durán 👋
 
 ### 💻 Desarrollador de Software Junior en Formación
@@ -117,22 +115,10 @@ También cuento con conocimientos en Fetch API, Web Components, diseño responsi
 ## 📚 Formación y aprendizaje
 
 - 🎓 Técnico Bachiller Empresarial Bilingüe.
-- 🌎 Español e inglés (B1.2, según mi portafolio).
+- 🌎 Español e inglés.
 - 🔄 Conocimientos en metodologías ágiles Scrum.
 - 🌱 Fortaleciendo conocimientos en Spring Boot y desarrollo backend.
 - ⚡ Explorando la automatización de procesos e integraciones con n8n.
-
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlejoSDM&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoSDM&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
-
-<img src="https://streak-stats.demolab.com?user=AlejoSDM&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-
-</div>
 
 ## 🤝 Conectemos
 
